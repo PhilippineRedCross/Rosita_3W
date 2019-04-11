@@ -1,164 +1,164 @@
-ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Barangay,Status,Beneficiaries,Beneficiary_type
-1,PRC,Relief,Ready to Eat Meals,Biscuits,133,13302,Aringay Ampitheater,Finished,116,individuals
-2,PRC,Health,PSS,PSP,133,13302,Aringay Ampitheater,Finished,29,individuals
-3,PRC,Relief,Ready to Eat Meals,Hotmeals,250,25004,Almaguer North,Finished,18,individuals
-4,PRC,Relief,Ready to Eat Meals,Hotmeals,250,25004,Almaguer South,Finished,41,individuals
-5,PRC,Relief,Ready to Eat Meals,Hotmeals,250,25004,San Leonardo,Finished,26,individuals
-6,PRC,Relief,Ready to Eat Meals,Hotmeals,250,25004,San Fernando,Finished,159,individuals
-7,PRC,SRR,SRR/WASAR,Rescue,250,25004,,Finished,2,individuals
-8,PRC,SRR,SRR/WASAR,Transported,250,25004,,Finished,3,individuals
-9,PRC,Relief,Ready to Eat Meals,Biscuits,133,13307,Santiago Elementary School,Finished,298,individuals
-10,PRC,Health,PSS,PSP,133,13307,Santiago Elementary School,Finished,105,individuals
-11,PRC,Relief,Ready to Eat Meals,Biscuits,133,13309,Caba municipal hall,Finished,88,individuals
-12,PRC,Health,PSS,PSP,133,13309,Caba municipal hall,Finished,105,individuals
-13,PRC,Health,PSS,PSP,133,13314,Chapter,Finished,35,individuals
-14,PRC,Relief,Food Items,Food Packs (Standard),231,23135,San Andres,Finished,25,families
-15,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Dubinan West,Finished,20,families
-16,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Buenavista,Finished,36,families
-17,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Sinili,Finished,17,families
-18,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Batal,Finished,20,families
-19,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Plaridel,Finished,47,families
-20,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Ambalatungan,Finished,9,families
-21,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Cabulay,Finished,22,families
-22,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Malvar,Finished,34,families
-23,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Sta. Rosa,Finished,15,families
-24,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Baluarte,Finished,15,families
-25,PRC,Relief,Food Items,Food Packs (Standard),231,23135,Balintocatoc,Finished,15,families
-26,ICRC,Relief,Non-Food Items,Tarpaulin,231,23109,,Finished,249,families
-27,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,231,23109,,Finished,249,families
-28,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,231,23109,,Finished,249,families
-29,PRC,Health,PSS,Welfare Desk,155,15518,Astrodome,Finished,3,unit
-30,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,San Antonio,Finished,1,families
-31,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Villa Pascua,Finished,5,families
-32,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Villa Pascua,Finished,5,families
-33,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Villa Pascua,Finished,5,families
-34,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Maria Clara,Finished,21,families
-35,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Maria Clara,Finished,21,families
-36,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Maria Clara,Finished,21,families
-37,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Luttuad,Finished,8,families
-38,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Luttuad,Finished,8,families
-39,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Luttuad,Finished,8,families
-40,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Magsaysay,Finished,2,families
-41,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Magsaysay,Finished,2,families
-42,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Magsaysay,Finished,2,families
-43,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Guribang,Finished,3,families
-44,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Guribang,Finished,3,families
-45,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Guribang,Finished,3,families
-46,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Aurora West,Finished,3,families
-47,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Aurora West,Finished,3,families
-48,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Aurora West,Finished,3,families
-49,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Campamento,Finished,15,families
-50,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Campamento,Finished,15,families
-51,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Campamento,Finished,15,families
-52,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Balagbag,Finished,7,families
-53,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Balagbag,Finished,7,families
-54,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Balagbag,Finished,7,families
-55,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,San Pascual,Finished,2,families
-56,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,San Pascual,Finished,2,families
-57,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,San Pascual,Finished,2,families
-58,ICRC,Relief,Non-Food Items,Tarpaulin,257,25703,Dumanisi,Finished,4,families
-59,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25703,Dumanisi,Finished,4,families
-60,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25703,Dumanisi,Finished,4,families
-61,Unknown,Health,PSS,PSP,231,23110,,Finished,193,individuals
-62,PRC,Relief,Ready to Eat Meals,Biscuits,231,23110,,Finished,361,individuals
-63,PRC,Health,PSS,PSP,231,23110,,Finished,15,individuals
-64,PRC,WASH,Hygiene Promotion,Hygiene Promorion,231,23110,,Finished,160,individuals
-65,PRC,Health,PSS,PSP,231,23112,Silawan Sur,Finished,12,individuals
-66,PRC,Relief,Food Items,Food Packs (Standard),1427,142709,,Finished,25,families
-67,PRC,Relief,Food Items,Food Packs (Standard),1427,142709,,Finished,8,families
-68,PRC,Health,PSS,Welfare Desk,231,23114,Chapter,Finished,1,unit
-69,PRC,WASH,Hygiene Promotion,Hygiene Promorion,231,23114,,Finished,116,individuals
-70,PRC,Relief,Ready to Eat Meals,Hotmeals,231,23114,,Finished,115,individuals
-71,PRC,Relief,Ready to Eat Meals,Hotmeals,231,23114,,Finished,78,individuals
-72,ICRC,Relief,Non-Food Items,Tarpaulin,231,23115,,Finished,112,families
-73,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,231,23115,,Finished,112,families
-74,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,231,23115,,Finished,112,families
-75,PRC,Health,PSS,Welfare Desk,1411,141110,Chapter,Finished,1,unit
-76,PRC,SRR,SRR/WASAR,Retrieval,1444,144405,Banawel,Finished,5,individuals
-77,PRC,Relief,Ready to Eat Meals,Hotmeals,1444,144405,Banawel,Finished,300,individuals
-78,PRC,Relief,Ready to Eat Meals,Hotmeals,1444,144405,Banawel,Finished,400,individuals
-79,PRC,Relief,Ready to Eat Meals,Hotmeals,1444,144405,Banawel,Finished,300,individuals
-80,PRC,Health,PSS,PSP,1444,144405,Banawel,Finished,6,individuals
-81,PRC,Relief,Ready to Eat Meals,Hotmeals,1444,144405,Poblacion,Finished,250,individuals
-82,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144405,,Finished,220,families
-83,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144405,,Finished,220,families
-84,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144405,,Finished,220,families
-85,PRC,Relief,Food Items,Food Packs (Assorted),1444,144406,Bacarri,Finished,124,individuals
-86,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144406,Bacarri,Finished,52,families
-87,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144406,Bacarri,Finished,52,families
-88,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144406,Bacarri,Finished,52,families
-89,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144406,Bantay,Finished,118,families
-90,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144406,Bantay,Finished,118,families
-91,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144406,Bantay,Finished,118,families
-92,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144406,Poblacion,Finished,132,families
-93,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144406,Poblacion,Finished,132,families
-94,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144406,Poblacion,Finished,132,families
-95,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144406,Buringal,Finished,100,families
-96,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144406,Buringal,Finished,100,families
-97,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144406,Buringal,Finished,100,families
-98,PRC,WASH,Sanitation,Hyposol,1444,144406,Bacarri,Finished,52,families
-99,PRC,WASH,Sanitation,Hyposol,1444,144406,Bantay,Finished,118,families
-100,PRC,WASH,Sanitation,Hyposol,1444,144406,Poblacion,Finished,132,families
-101,PRC,WASH,Sanitation,Hyposol,1444,144406,Buringal,Finished,100,families
-102,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144408,Demang,Finished,20,families
-103,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144408,Demang,Finished,20,families
-104,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144408,Demang,Finished,20,families
-105,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144408,Bekigan,Finished,20,families
-106,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144408,Bekigan,Finished,20,families
-107,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144408,Bekigan,Finished,20,families
-108,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144408,Betwagan,Finished,20,families
-109,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144408,Betwagan,Finished,20,families
-110,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144408,Betwagan,Finished,20,families
-111,ICRC,Relief,Non-Food Items,Tarpaulin,1444,144408,Belwang,Finished,20,families
-112,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,1444,144408,Belwang,Finished,20,families
-113,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,1444,144408,Belwang,Finished,20,families
-114,PRC,Relief,Food Items,Food Packs (Standard),257,25705,Salvacion,Finished,117,FAmilies
-115,PRC,Relief,Food Items,Food Packs (Standard),257,25705,Dibul,Finished,100,FAmilies
-116,PRC,Relief,Food Items,Food Packs (Standard),257,25705,Santo Tomas,Finished,78,FAmilies
-117,PRC,Health,PSS,PSP,257,25705,Santo Tomas,Finished,18,individuals
-118,PRC,Health,PSS,PSP,257,25705,Salvacion,Finished,39,individuals
-119,PRC,Health,PSS,PSP,257,25705,Dibul,Finished,25,individuals
-120,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Cardenas,Finished,14,families
-121,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Cardenas,Finished,14,families
-122,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Cardenas,Finished,14,families
-123,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Santo Tomas,Finished,10,families
-124,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Santo Tomas,Finished,10,families
-125,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Santo Tomas,Finished,10,families
-126,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Tres Reyes,Finished,14,families
-127,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Tres Reyes,Finished,14,families
-128,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Tres Reyes,Finished,14,families
-129,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Salvacion,Finished,14,families
-130,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Salvacion,Finished,14,families
-131,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Salvacion,Finished,14,families
-132,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Rizal,Finished,20,families
-133,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Rizal,Finished,20,families
-134,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Rizal,Finished,20,families
-135,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Lapaz,Finished,34,families
-136,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Lapaz,Finished,34,families
-137,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Lapaz,Finished,34,families
-138,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Gamis,Finished,5,families
-139,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Gamis,Finished,5,families
-140,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Gamis,Finished,5,families
-141,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Magsaysay,Finished,10,families
-142,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Magsaysay,Finished,10,families
-143,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Magsaysay,Finished,10,families
-144,ICRC,Relief,Non-Food Items,Tarpaulin,257,25705,Dibul,Finished,7,families
-145,Kuwait Red Crescent Society,Relief,Non-Food Items,Blanket,257,25705,Dibul,Finished,7,families
-146,Kuwait Red Crescent Society,Relief,Non-Food Items,Kitchen Set,257,25705,Dibul,Finished,7,families
-147,German Red Cross,Education,Education,School Kits,1432,143214,Lubo,Finished,60,students
-148,German Red Cross,Education,Education,School Kits,1432,143214,Dacalan,Finished,64,students
-149,German Red Cross,Education,Education,Clasmate Chairs,1432,143214,Lubo,Finished,60,students
-150,German Red Cross,Education,Education,Clasmate Chairs,1432,143214,Dacalan,Finished,64,students
-151,German Red Cross,Education,Education,Solar Panel,1432,143214,Lubo,Finished,1,school
-152,German Red Cross,Education,Education,Solar Panel,1432,143214,Dacalan,Finished,1,school
-153,German Red Cross,Education,Education,Laptop,1432,143214,Lubo,Finished,1,school
-154,German Red Cross,Education,Education,Laptop,1432,143214,Dacalan,Finished,1,school
-155,German Red Cross,Education,Education,Teacher's Table,1432,143214,Lubo,Finished,1,school
-156,German Red Cross,Education,Education,Teacher's Table,1432,143214,Dacalan,Finished,1,school
-157,German Red Cross,Education,Education,Teacher's Chair,1432,143214,Lubo,Finished,1,school
-158,German Red Cross,Education,Education,Teacher's Chair,1432,143214,Dacalan,Finished,1,school
-159,PRC,WASH,Sanitation,Hyposol,1432,143214,,Finished,500,bottles
-160,PRC,Relief,Ready to Eat Meals,Hotmeals,1411,141114,Ambassador,Finished,61,individuals
-161,PRC,Health,PSS,Welfare Desk,215,21529,Chapter,Finished,1,unit
-162,PRC,WASH,Hygiene Promotion,Hygiene Promorion,231,,,Finished,78,individuals
-163,PRC,Health,PSS,Welfare Desk,257,,Chapter,Finished,1,unit
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;PRC;Relief;Ready to Eat Meals;Biscuits;133;13302;Aringay Ampitheater;Finished;116;individuals
+2;PRC;Health;PSS;PSP;133;13302;Aringay Ampitheater;Finished;29;individuals
+3;PRC;Relief;Ready to Eat Meals;Hotmeals;250;25004;Almaguer North;Finished;18;individuals
+4;PRC;Relief;Ready to Eat Meals;Hotmeals;250;25004;Almaguer South;Finished;41;individuals
+5;PRC;Relief;Ready to Eat Meals;Hotmeals;250;25004;San Leonardo;Finished;26;individuals
+6;PRC;Relief;Ready to Eat Meals;Hotmeals;250;25004;San Fernando;Finished;159;individuals
+7;PRC;SRR;SRR/WASAR;Rescue;250;25004;;Finished;2;individuals
+8;PRC;SRR;SRR/WASAR;Transported;250;25004;;Finished;3;individuals
+9;PRC;Relief;Ready to Eat Meals;Biscuits;133;13307;Santiago Elementary School;Finished;298;individuals
+10;PRC;Health;PSS;PSP;133;13307;Santiago Elementary School;Finished;105;individuals
+11;PRC;Relief;Ready to Eat Meals;Biscuits;133;13309;Caba municipal hall;Finished;88;individuals
+12;PRC;Health;PSS;PSP;133;13309;Caba municipal hall;Finished;105;individuals
+13;PRC;Health;PSS;PSP;133;13314;Chapter;Finished;35;individuals
+14;PRC;Relief;Food Items;Food Packs (Standard);231;23135;San Andres;Finished;25;families
+15;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Dubinan West;Finished;20;families
+16;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Buenavista;Finished;36;families
+17;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Sinili;Finished;17;families
+18;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Batal;Finished;20;families
+19;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Plaridel;Finished;47;families
+20;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Ambalatungan;Finished;9;families
+21;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Cabulay;Finished;22;families
+22;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Malvar;Finished;34;families
+23;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Sta. Rosa;Finished;15;families
+24;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Baluarte;Finished;15;families
+25;PRC;Relief;Food Items;Food Packs (Standard);231;23135;Balintocatoc;Finished;15;families
+26;ICRC;Relief;Non-Food Items;Tarpaulin;231;23109;;Finished;249;families
+27;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;231;23109;;Finished;249;families
+28;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;231;23109;;Finished;249;families
+29;PRC;Health;PSS;Welfare Desk;155;15518;Astrodome;Finished;3;unit
+30;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;San Antonio;Finished;1;families
+31;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Villa Pascua;Finished;5;families
+32;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Villa Pascua;Finished;5;families
+33;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Villa Pascua;Finished;5;families
+34;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Maria Clara;Finished;21;families
+35;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Maria Clara;Finished;21;families
+36;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Maria Clara;Finished;21;families
+37;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Luttuad;Finished;8;families
+38;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Luttuad;Finished;8;families
+39;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Luttuad;Finished;8;families
+40;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Magsaysay;Finished;2;families
+41;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Magsaysay;Finished;2;families
+42;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Magsaysay;Finished;2;families
+43;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Guribang;Finished;3;families
+44;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Guribang;Finished;3;families
+45;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Guribang;Finished;3;families
+46;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Aurora West;Finished;3;families
+47;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Aurora West;Finished;3;families
+48;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Aurora West;Finished;3;families
+49;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Campamento;Finished;15;families
+50;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Campamento;Finished;15;families
+51;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Campamento;Finished;15;families
+52;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Balagbag;Finished;7;families
+53;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Balagbag;Finished;7;families
+54;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Balagbag;Finished;7;families
+55;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;San Pascual;Finished;2;families
+56;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;San Pascual;Finished;2;families
+57;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;San Pascual;Finished;2;families
+58;ICRC;Relief;Non-Food Items;Tarpaulin;257;25703;Dumanisi;Finished;4;families
+59;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25703;Dumanisi;Finished;4;families
+60;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25703;Dumanisi;Finished;4;families
+61;Unknown;Health;PSS;PSP;231;23110;;Finished;193;individuals
+62;PRC;Relief;Ready to Eat Meals;Biscuits;231;23110;;Finished;361;individuals
+63;PRC;Health;PSS;PSP;231;23110;;Finished;15;individuals
+64;PRC;WASH;Hygiene Promotion;Hygiene Promorion;231;23110;;Finished;160;individuals
+65;PRC;Health;PSS;PSP;231;23112;Silawan Sur;Finished;12;individuals
+66;PRC;Relief;Food Items;Food Packs (Standard);1427;142709;;Finished;25;families
+67;PRC;Relief;Food Items;Food Packs (Standard);1427;142709;;Finished;8;families
+68;PRC;Health;PSS;Welfare Desk;231;23114;Chapter;Finished;1;unit
+69;PRC;WASH;Hygiene Promotion;Hygiene Promorion;231;23114;;Finished;116;individuals
+70;PRC;Relief;Ready to Eat Meals;Hotmeals;231;23114;;Finished;115;individuals
+71;PRC;Relief;Ready to Eat Meals;Hotmeals;231;23114;;Finished;78;individuals
+72;ICRC;Relief;Non-Food Items;Tarpaulin;231;23115;;Finished;112;families
+73;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;231;23115;;Finished;112;families
+74;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;231;23115;;Finished;112;families
+75;PRC;Health;PSS;Welfare Desk;1411;141110;Chapter;Finished;1;unit
+76;PRC;SRR;SRR/WASAR;Retrieval;1444;144405;Banawel;Finished;5;individuals
+77;PRC;Relief;Ready to Eat Meals;Hotmeals;1444;144405;Banawel;Finished;300;individuals
+78;PRC;Relief;Ready to Eat Meals;Hotmeals;1444;144405;Banawel;Finished;400;individuals
+79;PRC;Relief;Ready to Eat Meals;Hotmeals;1444;144405;Banawel;Finished;300;individuals
+80;PRC;Health;PSS;PSP;1444;144405;Banawel;Finished;6;individuals
+81;PRC;Relief;Ready to Eat Meals;Hotmeals;1444;144405;Poblacion;Finished;250;individuals
+82;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144405;;Finished;220;families
+83;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144405;;Finished;220;families
+84;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144405;;Finished;220;families
+85;PRC;Relief;Food Items;Food Packs (Assorted);1444;144406;Bacarri;Finished;124;individuals
+86;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144406;Bacarri;Finished;52;families
+87;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144406;Bacarri;Finished;52;families
+88;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144406;Bacarri;Finished;52;families
+89;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144406;Bantay;Finished;118;families
+90;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144406;Bantay;Finished;118;families
+91;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144406;Bantay;Finished;118;families
+92;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144406;Poblacion;Finished;132;families
+93;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144406;Poblacion;Finished;132;families
+94;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144406;Poblacion;Finished;132;families
+95;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144406;Buringal;Finished;100;families
+96;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144406;Buringal;Finished;100;families
+97;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144406;Buringal;Finished;100;families
+98;PRC;WASH;Sanitation;Hyposol;1444;144406;Bacarri;Finished;52;families
+99;PRC;WASH;Sanitation;Hyposol;1444;144406;Bantay;Finished;118;families
+100;PRC;WASH;Sanitation;Hyposol;1444;144406;Poblacion;Finished;132;families
+101;PRC;WASH;Sanitation;Hyposol;1444;144406;Buringal;Finished;100;families
+102;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144408;Demang;Finished;20;families
+103;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144408;Demang;Finished;20;families
+104;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144408;Demang;Finished;20;families
+105;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144408;Bekigan;Finished;20;families
+106;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144408;Bekigan;Finished;20;families
+107;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144408;Bekigan;Finished;20;families
+108;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144408;Betwagan;Finished;20;families
+109;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144408;Betwagan;Finished;20;families
+110;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144408;Betwagan;Finished;20;families
+111;ICRC;Relief;Non-Food Items;Tarpaulin;1444;144408;Belwang;Finished;20;families
+112;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;1444;144408;Belwang;Finished;20;families
+113;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;1444;144408;Belwang;Finished;20;families
+114;PRC;Relief;Food Items;Food Packs (Standard);257;25705;Salvacion;Finished;117;FAmilies
+115;PRC;Relief;Food Items;Food Packs (Standard);257;25705;Dibul;Finished;100;FAmilies
+116;PRC;Relief;Food Items;Food Packs (Standard);257;25705;Santo Tomas;Finished;78;FAmilies
+117;PRC;Health;PSS;PSP;257;25705;Santo Tomas;Finished;18;individuals
+118;PRC;Health;PSS;PSP;257;25705;Salvacion;Finished;39;individuals
+119;PRC;Health;PSS;PSP;257;25705;Dibul;Finished;25;individuals
+120;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Cardenas;Finished;14;families
+121;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Cardenas;Finished;14;families
+122;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Cardenas;Finished;14;families
+123;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Santo Tomas;Finished;10;families
+124;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Santo Tomas;Finished;10;families
+125;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Santo Tomas;Finished;10;families
+126;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Tres Reyes;Finished;14;families
+127;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Tres Reyes;Finished;14;families
+128;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Tres Reyes;Finished;14;families
+129;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Salvacion;Finished;14;families
+130;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Salvacion;Finished;14;families
+131;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Salvacion;Finished;14;families
+132;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Rizal;Finished;20;families
+133;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Rizal;Finished;20;families
+134;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Rizal;Finished;20;families
+135;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Lapaz;Finished;34;families
+136;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Lapaz;Finished;34;families
+137;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Lapaz;Finished;34;families
+138;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Gamis;Finished;5;families
+139;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Gamis;Finished;5;families
+140;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Gamis;Finished;5;families
+141;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Magsaysay;Finished;10;families
+142;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Magsaysay;Finished;10;families
+143;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Magsaysay;Finished;10;families
+144;ICRC;Relief;Non-Food Items;Tarpaulin;257;25705;Dibul;Finished;7;families
+145;Kuwait Red Crescent Society;Relief;Non-Food Items;Blanket;257;25705;Dibul;Finished;7;families
+146;Kuwait Red Crescent Society;Relief;Non-Food Items;Kitchen Set;257;25705;Dibul;Finished;7;families
+147;German Red Cross;Education;Education;School Kits;1432;143214;Lubo;Finished;60;students
+148;German Red Cross;Education;Education;School Kits;1432;143214;Dacalan;Finished;64;students
+149;German Red Cross;Education;Education;Clasmate Chairs;1432;143214;Lubo;Finished;60;students
+150;German Red Cross;Education;Education;Clasmate Chairs;1432;143214;Dacalan;Finished;64;students
+151;German Red Cross;Education;Education;Solar Panel;1432;143214;Lubo;Finished;1;school
+152;German Red Cross;Education;Education;Solar Panel;1432;143214;Dacalan;Finished;1;school
+153;German Red Cross;Education;Education;Laptop;1432;143214;Lubo;Finished;1;school
+154;German Red Cross;Education;Education;Laptop;1432;143214;Dacalan;Finished;1;school
+155;German Red Cross;Education;Education;Teacher's Table;1432;143214;Lubo;Finished;1;school
+156;German Red Cross;Education;Education;Teacher's Table;1432;143214;Dacalan;Finished;1;school
+157;German Red Cross;Education;Education;Teacher's Chair;1432;143214;Lubo;Finished;1;school
+158;German Red Cross;Education;Education;Teacher's Chair;1432;143214;Dacalan;Finished;1;school
+159;PRC;WASH;Sanitation;Hyposol;1432;143214;;Finished;500;bottles
+160;PRC;Relief;Ready to Eat Meals;Hotmeals;1411;141114;Ambassador;Finished;61;individuals
+161;PRC;Health;PSS;Welfare Desk;215;21529;Chapter;Finished;1;unit
+162;PRC;WASH;Hygiene Promotion;Hygiene Promorion;231;;;Finished;78;individuals
+163;PRC;Health;PSS;Welfare Desk;257;;Chapter;Finished;1;unit
